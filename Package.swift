@@ -15,6 +15,6 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
     ],
     targets: [
-        .binaryTarget(name: "SendBirdUIKit", url: "https://github.com/claasgroup/sendbird-uikit-ios/releases/download/v2.0.9/SendBirdUIKit.zip", checksum: "96838ee78b6940f3762eec7339f7e159469dffa01104408a850067121f9785de"),
+        .binaryTarget(name: "SendBirdUIKit", url: "https://github.com/claasgroup/sendbird-uikit-ios/releases/download/v2.1.0/SendBirdUIKit.zip", checksum: "436b1b8d8f54551457e4b0a4047129b7edac3838b337d8ca0954267b09abd363"),
     ]
 )
